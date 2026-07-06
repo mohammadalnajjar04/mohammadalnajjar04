@@ -254,7 +254,7 @@ I maintain private Oracle learning repositories where I practice enterprise data
     <td width="50%">
       <h3 align="center">🍔 BurgerCraft Booking</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/🔒_Private_Repository-30363D?style=for-the-badge" alt="Private repository badge" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92_Private_Repository-30363D?style=for-the-badge" alt="Private repository badge" />
         <img src="https://img.shields.io/badge/Enterprise_Project-58A6FF?style=for-the-badge" alt="Enterprise project badge" />
       </p>
       <p align="center">
@@ -266,7 +266,7 @@ I maintain private Oracle learning repositories where I practice enterprise data
     <td width="50%">
       <h3 align="center">🗄 Oracle SQL Journey</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/🔒_Private_Repository-30363D?style=for-the-badge" alt="Private repository badge" />
+        <img src="https://img.shields.io/badge/%F0%9F%94%92_Private_Repository-30363D?style=for-the-badge" alt="Private repository badge" />
         <img src="https://img.shields.io/badge/Personal_Project-58A6FF?style=for-the-badge" alt="Personal project badge" />
       </p>
       <p align="center">
