@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/B.Sc._Computer_Science-1F6FEB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Sc. Computer Science badge" />
   <img src="https://img.shields.io/badge/GPA_86%2F100_Excellent-0D8B55?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="GPA 86/100 Excellent badge" />
   <img src="https://img.shields.io/badge/Full-Stack_Trainee_@_Daleel_Academy-181717?style=for-the-badge&logo=github&logoColor=white" alt="Daleel Academy trainee badge" />
-  <img src="https://img.shields.io/badge/Irbid,_Jordan-0D1117?style=for-the-badge&logo=google-maps&logoColor=white" alt="Irbid Jordan badge" />
+  <img src="https://img.shields.io/badge/Irbid,_Jordan-0D1117?style=for-the-badge&logo=google-maps&logoColor=white" alt="Amman Jordan badge" />
   <a href="https://mohammadalnajjar04.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Live Portfolio button" />
   </a>
@@ -24,7 +24,7 @@ class SoftwareDeveloper:
         self.name = "Mohammad Al-Najjar"
         self.education = "B.Sc. Computer Science – Jadara University"
         self.gpa = "86/100 — Excellent"
-        self.location = "Irbid, Jordan"
+        self.location = "Amman, Jordan"
         self.email = "alnajjarmohammad00@gmail.com"
         self.role = "Full-Stack Developer Trainee @ Daleel Academy"
         self.stack = [
