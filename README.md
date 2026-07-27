@@ -4,44 +4,30 @@
   <img src="assets/profile-dark.svg" alt="Mohammad Al-Najjar — Software Engineer" width="100%">
 </picture>
 
-Computer Science graduate building software across web systems, databases, and application engineering. Currently strengthening full-stack engineering, Oracle technologies, and algorithmic problem solving through real-world projects.
+I build software with a bias for **clear systems, strong fundamentals, and work that can be inspected**. Computer Science graduate currently sharpening full-stack engineering, databases, and algorithmic problem solving through real projects.
 
----
+## Selected Work
 
-### Selected Work
+**01 / [Agricultural Supply Chain](https://github.com/mohammadalnajjar04/agricultural-supply-chain)**  
+Full-stack platform for coordinating farmers, transporters, and stores, with role-based workflows and AI-assisted decision support.  
+`PHP` · `MySQL` · `Python`
 
-**01 / Agricultural Supply Chain**
+**02 / [CSES Solutions](https://github.com/mohammadalnajjar04/cses-solutions)**  
+A growing collection of clean C++ solutions focused on algorithms, complexity, and disciplined problem solving.  
+`C++` · `Algorithms` · `Data Structures`
 
-Full-stack web platform connecting farmers, transporters, and stores with AI-assisted decision support. Includes role-based dashboards, user verification, multi-language support, and a Python Flask microservice for price forecasting.
+**03 / [Oracle SQL Journey](https://github.com/mohammadalnajjar04/Oracle-SQL-Journey)**  
+Structured hands-on practice in Oracle SQL, from core querying concepts to database-focused exercises and notes.  
+`Oracle SQL` · `Database Fundamentals`
 
-`PHP` · `MySQL` · `Python` · [Repository](https://github.com/mohammadalnajjar04/agricultural-supply-chain)
+## Experience
 
----
+**Full-Stack Developer Trainee** · Daleel Academy · `2026 — Present`  
+Building full-stack applications and strengthening modern software engineering practices.
 
-**02 / Portfolio**
+**Field Training Intern** · Irbid District Electricity Company (IDECO) · `2026`  
+Worked on an Android customer-service application in an enterprise training environment.
 
-React and TypeScript portfolio with component-based architecture, CI/CD pipeline via GitHub Actions, and GitHub Pages deployment.
+## Connect
 
-`TypeScript` · `React` · [Repository](https://github.com/mohammadalnajjar04/portfolio) · [Live](https://mohammadalnajjar04.github.io/portfolio/)
-
----
-
-**03 / FitZone Gym Database**
-
-PostgreSQL database for gym management covering member subscriptions, trainer assignments, class scheduling, and hierarchical mentorship with ERD diagrams and complex queries.
-
-`PostgreSQL` · [Repository](https://github.com/mohammadalnajjar04/fitzone-gym-database)
-
----
-
-### Experience
-
-**Full-Stack Developer Trainee** — Daleel Academy · 2026 — Present
-
-**Field Training Intern** — IDECO · 2026
-
----
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/mohammad-al-najjar04) · [Portfolio](https://mohammadalnajjar04.github.io/portfolio/) · [Email](mailto:alnajjarmohammad00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammad-alnajjar04) · [Portfolio](https://mohammadalnajjar04.github.io/portfolio/) · [GitHub](https://github.com/mohammadalnajjar04) · [Email](mailto:alnajjarmohammad00@gmail.com)
