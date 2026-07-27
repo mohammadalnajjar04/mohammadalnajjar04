@@ -1,64 +1,36 @@
-```
-mohammad@github:~$ whoami
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-dark.svg" alt="Mohammad Al-Najjar — Software Engineer" width="100%">
+</picture>
 
-## Mohammad Al-Najjar
-
-Software Engineer.
-
-Computer Science graduate building reliable software with a focus on full-stack development, database systems, and problem solving. Currently a Full-Stack Developer Trainee at Daleel Academy.
-
----
-
-### Currently
-
-- Full-Stack Development
-- Oracle SQL & PL/SQL
-- Algorithms & Data Structures
-- Building real-world projects
-
----
-
-### Tech Stack
-
-```
-Languages    C++ · PHP · Python · TypeScript · SQL
-Databases    Oracle · PostgreSQL · MySQL
-Web          HTML · CSS · JavaScript · React
-Tools        Git · GitHub · Linux
-```
+Computer Science graduate building software across web systems, databases, and application engineering. Currently strengthening full-stack engineering, Oracle technologies, and algorithmic problem solving through real-world projects.
 
 ---
 
 ### Selected Work
 
-**Agricultural Supply Chain**
+**01 / Agricultural Supply Chain**
 
 Full-stack web platform connecting farmers, transporters, and stores with AI-assisted decision support. Includes role-based dashboards, user verification, multi-language support, and a Python Flask microservice for price forecasting.
 
-`PHP` · `MySQL` · `Python`
-
-[Repository](https://github.com/mohammadalnajjar04/agricultural-supply-chain)
+`PHP` · `MySQL` · `Python` · [Repository](https://github.com/mohammadalnajjar04/agricultural-supply-chain)
 
 ---
 
-**Portfolio**
+**02 / Portfolio**
 
-React and TypeScript portfolio with component-based architecture, CI/CD pipeline, and GitHub Pages deployment.
+React and TypeScript portfolio with component-based architecture, CI/CD pipeline via GitHub Actions, and GitHub Pages deployment.
 
-`TypeScript` · `React`
-
-[Repository](https://github.com/mohammadalnajjar04/portfolio) · [Live](https://mohammadalnajjar04.github.io/portfolio/)
+`TypeScript` · `React` · [Repository](https://github.com/mohammadalnajjar04/portfolio) · [Live](https://mohammadalnajjar04.github.io/portfolio/)
 
 ---
 
-**FitZone Gym Database**
+**03 / FitZone Gym Database**
 
-PostgreSQL database for gym management covering member subscriptions, trainer assignments, class scheduling, and hierarchical mentorship. Includes ERD diagrams and complex queries.
+PostgreSQL database for gym management covering member subscriptions, trainer assignments, class scheduling, and hierarchical mentorship with ERD diagrams and complex queries.
 
-`PostgreSQL`
-
-[Repository](https://github.com/mohammadalnajjar04/fitzone-gym-database)
+`PostgreSQL` · [Repository](https://github.com/mohammadalnajjar04/fitzone-gym-database)
 
 ---
 
