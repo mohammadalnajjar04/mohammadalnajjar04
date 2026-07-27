@@ -1,32 +1,38 @@
-name: Rebuild Profile Hero
+name: Refresh profile SVG
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * 1'
+    - cron: "17 3 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
-      - run: pip install Pillow
+      - name: Refresh public GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python profile.py
 
-      - name: Rebuild hero assets
-        run: python scripts/build_profile.py --portrait assets/mohammad.webp
-
-      - name: Commit if changed
+      - name: Commit changed SVGs
         run: |
+          if git diff --quiet -- dark_mode.svg light_mode.svg; then
+            echo "No profile changes."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile-dark.svg assets/profile-light.svg
-          git diff --cached --quiet || git commit -m "chore: rebuild profile hero assets"
+          git add dark_mode.svg light_mode.svg
+          git commit -m "chore: refresh profile stats"
           git push
